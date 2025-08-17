@@ -1,7 +1,6 @@
 AI Chatbot - Frontend
 A modern, responsive AI chatbot interface built with vanilla JavaScript. Features a clean dark theme UI with real-time messaging capabilities.
-🚀 Live Demo
-Frontend: (https://ai-chatbot-workiva.vercel.app/) Backend API: Deployed on Vercel with secure environment variables
+Backend API: Deployed on Vercel with secure environment variables
 ✨ Features
 
 💬 Real-time Chat Interface - Instant messaging with AI responses
